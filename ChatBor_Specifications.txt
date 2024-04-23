@@ -1,0 +1,4 @@
+Friendly and humorous personality
+Ability to track user activity and ask questions when engagement is low
+Ability to integrate with various messaging platforms
+Ability to understand and respond to user queries
